@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bekzodbek1
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning the programming language Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Telegram @Bekz0d07
 
 <!---
